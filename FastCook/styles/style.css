@@ -1,0 +1,27 @@
+.header{	
+	width: 100%;	
+	color: #EF5438 !important;
+	text-shadow: #000 2pt 3pt 2pt;
+}
+.title{
+	color: #EF5438;
+}
+
+footer{
+	background-color: lightgrey;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.heading {
+	color:black;
+	text-align: center;
+	font-size: 14pt;
+	padding-top: 5%;
+}
+
+.heading:first-letter{
+	font-size:28pt;
+	color: #EF5438;
+}
